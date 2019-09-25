@@ -1,0 +1,12 @@
+Intel Core i9-9900K Coffee Lake 8-Core, 16-Thread, 3.6 GHz (5.0 GHz Turbo) LGA 1151 (300 Series) 95W BX80684I99900K Desktop Processor Intel UHD Graphics 630		42901.0
+ASUS ROG Strix Z390-F Gaming LGA 1151 (300 Series) Intel Z390 HDMI SATA 6Gb/s USB 3.1 ATX Intel Motherboard		17317.0
+G.SKILL TridentZ RGB Series 64GB (4 x 16GB) 288-Pin DDR4 SDRAM DDR4 3000 (PC4 24000) Desktop Memory Model F4-3000C16Q-64GTZR		24086.0
+SAMSUNG 970 EVO M.2 2280 1TB PCIe Gen3. X4, NVMe 1.3 64L V-NAND 3-bit MLC Internal Solid State Drive (SSD) MZ-V7E1T0BW		16663.0
+SAMSUNG 860 EVO Series 2.5" 250GB SATA III 3D NAND Internal Solid State Drive (SSD) MZ-76E250E		6373.0
+be quiet! Silent Base 801 Window Black - ATX, Midi Tower, tempered glass window		12063.0
+Seasonic FOCUS Plus Series SSR-650FX 650W 80+ Gold ATX12V & EPS12V Full Modular 120mm FDB Fan Compact 140mm Size Power Supply		10323.0
+Corsair Hydro Series, H150i PRO RGB, 360mm. 3 X 120mm ML PWM Fans, Advanced RGB Lighting & Fan Control w/ Software. Liquid CPU Cooler. CW-9060031-WW. Support: Intel 2066, AMD AM4.		15484.0
+Seagate BarraCuda Pro ST4000DM006 4TB 7200 RPM 128MB Cache SATA 6.0Gb/s 3.5" Hard Drive Bare Drive		14493.0
+Asus ROG Swift PG348Q Gray 34" 3440 x 1440, 100 Hz Curved IPS G-Sync 21:9 WQHD 100% sRGB Gaming Monitor with Speakers, Tilt, Swift, Height-Adjustable, VESA Mount		62232.0
+MSI GeForce RTX 2070 DirectX 12 RTX 2070 GAMING X 8G 8GB 256-Bit GDDR6 PCI Express 3.0 x16 HDCP Ready Video Card		42481.0
+264416.0
